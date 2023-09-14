@@ -54,23 +54,5 @@ li {
     align-items: center;
     position: absolute;
     top: 10px;
-    /* Ajusta la posición vertical según sea necesario */
     right: 10px;
-    /* Ajusta la posición horizontal según sea necesario */
-}
-
-/* Estilos para los botones de izquierda y derecha */
-.botones-container {
-    display: flex;
-    align-items: center;
-}
-
-.boton-izquierda {
-    margin-right: auto;
-    /* Empujar el botón de izquierda hacia la izquierda */
-}
-
-.boton-derecha {
-    margin-left: auto;
-    /* Empujar el botón de derecha hacia la derecha */
 }
